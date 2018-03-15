@@ -12,3 +12,5 @@ About my thesis
 #http://blog.csdn.net/ddffr/article/details/74327876
 
 #接口测试工具
+#https://www.cnblogs.com/feng0815/p/7509541.html
+#文中，作者首推JMETER 和 POSTMAN 这两种工具。我在Windows的环境下，测试了JMETER的功能。
