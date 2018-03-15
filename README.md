@@ -16,3 +16,6 @@ About my thesis
 #文中，作者首推JMETER 和 POSTMAN 这两种工具。我在Windows的环境下，测试了JMETER的功能。结果与POSTMAN一致，正常，具体详见图片。
 #下一步是学习JMETER源码，看看能不能从中获得灵感
 #https://www.baidu.com/s?wd=jmeter%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB&ie=utf-8
+#教学
+#http://www.mamicode.com/info-detail-1417825.html
+#http://blog.csdn.net/yue530tomtom/article/details/77870233
